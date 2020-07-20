@@ -22,13 +22,7 @@ Pod::Spec.new do |s|
   s.dependency 'mob_sharesdk/ShareSDKPlatforms/QQ'
   s.dependency 'mob_sharesdk/ShareSDKPlatforms/SinaWeibo'
   s.dependency 'mob_sharesdk/ShareSDKPlatforms/WeChat'
-  s.dependency 'mob_sharesdk/ShareSDKPlatforms/Facebook'
-  s.dependency 'mob_sharesdk/ShareSDKPlatforms/Twitter'
   s.dependency 'mob_sharesdk/ShareSDKPlatforms/Douyin'
-  s.dependency 'mob_sharesdk/ShareSDKPlatforms/Oasis'
-  s.dependency 'mob_sharesdk/ShareSDKPlatforms/Line'
-  s.dependency 'mob_sharesdk/ShareSDKPlatforms/SnapChat'
-  s.dependency 'mob_sharesdk/ShareSDKPlatforms/WatermelonVideo'
   s.dependency 'mob_sharesdk/ShareSDKPlatforms/KuaiShou'
   #分享闭环
   s.dependency 'mob_sharesdk/ShareSDKRestoreScene'
